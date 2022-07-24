@@ -1,4 +1,3 @@
-baseurl = "https://cv.qqy.pw/"  # End your URL with a `/` trailing slash.
 title = "Qian Yang"
 copyright = "&copy; 2019 Qian Yang"
 theme = "academic"
