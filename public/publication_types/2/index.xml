@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Qian Yang</title>
+    <link>https://cv.qqy.pw/publication_types/2/</link>
+    <description>Recent content in 2 on Qian Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Qian Yang</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cv.qqy.pw/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Secure users oriented downlink MISO NOMA</title>
+      <link>https://cv.qqy.pw/publication/wang2019a/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/wang2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure short-packet communications for mission-critical IoT applications</title>
+      <link>https://cv.qqy.pw/publication/wang2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/wang2019/</guid>
+      <description>   A secure IoT communication system in which an access point transmits confidential short-packet information to a trusted actuator in the presence of eavesdropping.      The average secrecy throughput obtained by the simulation versus blocklength and the transmitted bit number per block under the case with a single-antenna AP, where the star markers denote the optimal blocklength and the corresponding approximated secrecy throughput.   </description>
+    </item>
+    
+    <item>
+      <title>Delivery-secrecy tradeoff for cache-enabled stochastic networks: Content placement optimization</title>
+      <link>https://cv.qqy.pw/publication/yang2018a/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/yang2018a/</guid>
+      <description>   An illustration for the optimal cache placement strategy under different file secrecy levels, where the shadowed parts stand for the optimal placement probability.   </description>
+    </item>
+    
+    <item>
+      <title>Wireless powered asynchronous backscatter networks with sporadic short packets: Performance analysis and optimization</title>
+      <link>https://cv.qqy.pw/publication/yang2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/yang2018/</guid>
+      <description>   Stochastic B-WPC ad hoc network consisting of multiple RFID reader-tag pairs.   </description>
+    </item>
+    
+    <item>
+      <title>NOMA in downlink SDMA with limited feedback: Performance analysis and optimization</title>
+      <link>https://cv.qqy.pw/publication/yang2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/yang2017/</guid>
+      <description>   The considered downlink cellular network with a multi-antenna BS and multiple single-antenna users. The NOMA technology is exploited to simultaneously serve multiple users under each spatial beam of SDMA.   </description>
+    </item>
+    
+    <item>
+      <title>Joint source-relay secure precoding for MIMO relay networks with direct links</title>
+      <link>https://cv.qqy.pw/publication/wang2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/wang2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-efficient transmission design in non-orthogonal multiple access</title>
+      <link>https://cv.qqy.pw/publication/zhang2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zhang2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safeguarding decentralized wireless networks using full-duplex jamming receivers</title>
+      <link>https://cv.qqy.pw/publication/zheng2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zheng2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical layer security in MIMO backscatter wireless systems</title>
+      <link>https://cv.qqy.pw/publication/yang2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/yang2016/</guid>
+      <description>   The MIMO backscatter system, consisting of a RFID reader, a RFID tag, and a passive eavesdropper.   </description>
+    </item>
+    
+    <item>
+      <title>Secrecy sum rate maximization in non-orthogonal multiple access</title>
+      <link>https://cv.qqy.pw/publication/zhang2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zhang2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

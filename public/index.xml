@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qian Yang on Qian Yang</title>
+    <link>https://cv.qqy.pw/</link>
+    <description>Recent content in Qian Yang on Qian Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Qian Yang</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Secure users oriented downlink MISO NOMA</title>
+      <link>https://cv.qqy.pw/publication/wang2019a/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/wang2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure short-packet communications for mission-critical IoT applications</title>
+      <link>https://cv.qqy.pw/publication/wang2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/wang2019/</guid>
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://cv.qqy.pw/img/urllc.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;A secure IoT communication system in which an access point transmits confidential short-packet information to a trusted actuator in the presence of eavesdropping.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://cv.qqy.pw/img/urllc_result.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;The average secrecy throughput obtained by the simulation versus blocklength and the transmitted bit number per block under the case with a single-antenna AP, where the star markers denote the optimal blocklength and the corresponding approximated secrecy throughput.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physical-layer secure transmissions in cache-enabled cooperative small cell networks</title>
+      <link>https://cv.qqy.pw/publication/zheng2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zheng2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delivery-secrecy tradeoff for cache-enabled stochastic networks: Content placement optimization</title>
+      <link>https://cv.qqy.pw/publication/yang2018a/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/yang2018a/</guid>
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://cv.qqy.pw/img/caching.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;An illustration for the optimal cache placement strategy under different file secrecy levels, where the shadowed parts stand for the optimal placement probability.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Wireless powered asynchronous backscatter networks with sporadic short packets: Performance analysis and optimization</title>
+      <link>https://cv.qqy.pw/publication/yang2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/yang2018/</guid>
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://cv.qqy.pw/img/B-WPC.PNG&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Stochastic B-WPC ad hoc network consisting of multiple RFID reader-tag pairs.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cooperative transmission for physical layer security by exploring social awareness</title>
+      <link>https://cv.qqy.pw/publication/xu2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/xu2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NOMA in downlink SDMA with limited feedback: Performance analysis and optimization</title>
+      <link>https://cv.qqy.pw/publication/yang2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/yang2017/</guid>
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://cv.qqy.pw/img/NOMA.PNG&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;The considered downlink cellular network with a multi-antenna BS and multiple single-antenna users. The NOMA technology is exploited to simultaneously serve multiple users under each spatial beam of SDMA.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Improving physical layer security for wireless ad hoc networks via full-duplex receiver jamming</title>
+      <link>https://cv.qqy.pw/publication/zheng2017b/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zheng2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint source-relay secure precoding for MIMO relay networks with direct links</title>
+      <link>https://cv.qqy.pw/publication/wang2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/wang2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage performance of NOMA in downlink SDMA systems with limited feedback</title>
+      <link>https://cv.qqy.pw/publication/yang2017a/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/yang2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure transmissions in wireless ad hoc networks using hybrid half and full duplex receivers</title>
+      <link>https://cv.qqy.pw/publication/zheng2017a/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zheng2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-efficient transmission design in non-orthogonal multiple access</title>
+      <link>https://cv.qqy.pw/publication/zhang2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zhang2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The application of non-orthogonal multiple access in 5G physical-layer multi-region geocast</title>
+      <link>https://cv.qqy.pw/publication/zhang2017a/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zhang2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safeguarding decentralized wireless networks using full-duplex jamming receivers</title>
+      <link>https://cv.qqy.pw/publication/zheng2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zheng2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physical layer security in distributed wireless networks using full-duplex receiver jamming</title>
+      <link>https://cv.qqy.pw/publication/zheng2016a/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/publication/zheng2016a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

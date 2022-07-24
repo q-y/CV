@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Qian Yang</title>
+    <link>https://cv.qqy.pw/home/</link>
+    <description>Recent content in Homes on Qian Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Qian Yang</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cv.qqy.pw/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://cv.qqy.pw/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/home/about/</guid>
+      <description>Biography I have a wide range of interests in wireless communications and signal processing in the physical layer. Most of my current research focuses on backscatter wireless communications, non-orthogonal multiple access (NOMA) systems, and physical layer security. The mathematical tools utilized in my current research are mainly convex and nonconvex optimization, probability theory, and stochastic geometry.
+In addition, I serve as a reviewer for IEEE Wireless Communications Magazine, IEEE Journal on Selected Areas in Communications, IEEE Transactions on Wireless Communications, IEEE Transactions on Information Forensics and Security, IEEE Communications Letters, and IEEE Access.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://cv.qqy.pw/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://cv.qqy.pw/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Experience</title>
+      <link>https://cv.qqy.pw/home/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/home/experience/</guid>
+      <description>National High-tech R&amp;amp;D Program of China (863 Program), Research Experience, Sep. 2015 — Jan. 2016, Xi&amp;rsquo;an Jiaotong University, Xi&amp;rsquo;an, China
+Mission: Research on future-oriented physical-layer wireless access and secure communication technologies. My main work in this program involves
+ Relevant literature review at the early stage of the program. Designed a scheme for secret key agreement based on the preset pilot in physical layer. Set up the needed Matlab simulation environment based on the spatial channel model extension (SCME).</description>
+    </item>
+    
+    <item>
+      <title>Honors and Awards</title>
+      <link>https://cv.qqy.pw/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/home/awards/</guid>
+      <description>2017 China Graduate National Scholarship, Ministry of Education of the P. R. China, Nov. 2017
+⭐️ The highest honor for the most excellent graduate students in recognition of academic performance in China (top 0.2% nationwide).
+2015 Chiang Chen Scholarship, Chiang Chen Industrial Charity Foundation, Sep. 2016
+⭐️ Awarded to excellent graduate students in the Chinese Mainland (240 awards nationwide).
+2014 Chiang Chen Scholarship, Chiang Chen Industrial Charity Foundation, Sep. 2015</description>
+    </item>
+    
+    <item>
+      <title>Technical Skills</title>
+      <link>https://cv.qqy.pw/home/skills/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/home/skills/</guid>
+      <description> Mathematics Skills: Numerical Analysis, Linear Algebra and Matrix Analysis, Convex Optimization, Probability Theory, Stochastic Geometry.
+ Software Skills: C/C++, C#, Java/Android, Python; HTML, PHP, ASP, JSP, MySQL; Matlab, LaTeX.
+ Hardware Skills: Use of MCS-51/STM32/MSP430 Singlechip, VHDL/VerilogHDL Language, Use of CPLD/DSP/FPGA, know a little about PCB Design.
+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cv.qqy.pw/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cv.qqy.pw/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
